@@ -4,7 +4,6 @@
 ## **Opis problemu**
 Firma logistyczna przechowuje cenne przedmioty w specjalnych matrioszkowych pudełkach. Złota zasada firmy mówi, że każde pudełko o pojemności **N** (gdzie **N > 0**) zawiera dokładnie jedno pudełko o pojemności ⌊**N/2**⌋ oraz dwa pudełka o pojemności ⌊**N/3**⌋. Pudełka o pojemności 0 są puste i nie zawierają już niczego. Twoim zadaniem jest napisanie funkcji rekurencyjnej, która dla podanego rozmiaru głównego pudełka **N** obliczy, ile łącznie pustych pudełek (o pojemności 0) znajduje się w całej zagnieżdżonej strukturze.
 
-
 ## Specyfikacja wejścia/wyjścia:
 Dane pobierasz ze `stdin`, wyniki wypisujesz na `stdout`.
  - Wejście: Pojedyncza liczba całkowita **N**(**0 ≤ N ≤ 10^5**), oznaczająca pojemność początkowego pudełka.
