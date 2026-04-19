@@ -10,8 +10,7 @@ Dane pobierasz ze `stdin`, wyniki wypisujesz na `stdout`.
  - Wejście: Pojedyncza liczba całkowita **N**(**0 ≤ N ≤ 10^5**), oznaczająca pojemność początkowego pudełka.
  - Wyjście: Liczba całkowita oznaczająca całkowitą liczbę pustych pudełek (o pojemności **0**) wewnątrz struktury.
 
-## **For example:**
-
+**For example:**
 | **Input** | **Result** |
 | :---  | :---   | 
 | 1 |  3 | 
