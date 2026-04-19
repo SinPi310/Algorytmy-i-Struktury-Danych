@@ -1,2 +1,2 @@
 # Algorytmy i Struktury Danych
-Zbiór prykładów i zadań laboratoryjnych z przedmiotu Algorytmy i Struktury Danych (2026).
+Zbiór przykładów i zadań laboratoryjnych z przedmiotu Algorytmy i Struktury Danych (2026).
