@@ -54,7 +54,11 @@ hashTable.Remove("123");
 Console.WriteLine(hashTable.Dump());
 
 hashTable.Remove("321");
-Console.WriteLine(hashTable.Dump());| 00569, 456
+Console.WriteLine(hashTable.Dump());
+
+| 
+
+00569, 456
 123, 321
 
 0: 00569, 456
