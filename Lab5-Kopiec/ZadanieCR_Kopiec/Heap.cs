@@ -30,8 +30,8 @@ public class Heap<T> : IEnumerable<T> where T : IComparable<T>
 
     public void Insert(T x)
     {
-        list.Add(x); 
-        BubbleUp(list.Count - 1); 
+        list.Add(x);                // Dodajemy na koniec
+        BubbleUp(list.Count - 1);
     }
 
     public T Delete()
